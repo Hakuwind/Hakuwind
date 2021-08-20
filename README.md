@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Hakuwind
-- 👀 I’m interested in QA Automation, Unix/Linux, iOS development, Swift, Java
-- 🌱 I’m currently learning Java
+- 👋 Hi, name's Ivan
+- 👀 I’m interested in QA, Unix/Linux, iOS development, Swift, Java
 
 <!---
 Hakuwind/Hakuwind is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
